@@ -22,7 +22,7 @@ Installation:
 
 Description:
 	LaTeX package for drawing graphs, particularly neural network diagrams.
-
+```TeX
 	% Diagram is created via the neuralnetwork environment
 	\begin{neuralnetwork} [nodespacing=10mm, layerspacing=25mm,
 			maintitleheight=2.5em, layertitleheight=2.5em,
@@ -116,3 +116,4 @@ Description:
 		% to node = node to link to [REQUIRED]
 
 	\end{neuralnetwork}
+```
